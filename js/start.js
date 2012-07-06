@@ -4,14 +4,10 @@ $(document).ready(function(){
 	}else{
 		run();
 	}
-
-
-
 });
 
 function run(){
-
-			//uimaker
+		//uimaker
 		var uimaker= new UIMaker();
 		uimaker.initialization();
 		var ge=new gameEngine();
@@ -23,7 +19,5 @@ function run(){
 				ge.run(ui.draggable,dropCell);
 				 }
 		});
-
-
 }
 
