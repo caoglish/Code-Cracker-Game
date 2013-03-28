@@ -14,7 +14,7 @@ const RESULT_LOST="LOST";
 
 const GAME_ROWS= 8;//original is loop 8, change number for testing.
 
-const gameRule ='<b>AB number guessing </b><br/>'
+const gameRule ='<b>Code Cracker </b><br/>'
 	 +'1.Please guess these 4 random numbers. <br/>'
 	 +'2.Drag and drop 4 numbers into the row for one guessing.<br/>'
 	 +'3.If right number is in right place, it marks as A and number plus 1 for A.(like A1) <br/>'

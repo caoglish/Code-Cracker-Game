@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	if(checkBrowserIsIE()){
+	if(utils.checkBrowserIsIE()){
 		$('body').text('This game do not support IE.Please use Firefox or Chrome');
 	}else{
 		run();
