@@ -3,4 +3,3 @@ function checkBrowserIsIE(){
 	if (browser.msie) return true;
 	return false;
 }
-
