@@ -1,3 +1,7 @@
+# deprecated 
+### Please see new repo: https://github.com/caoglish/Mastermind
+
+
 AB-Number-Guessing
 ==================
 
